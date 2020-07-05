@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "common-modules-testing"
+    }
+  },
+  "defaultProject": "common-modules-testing",
+  "cli": {
+    "analytics": false
+  }
 }
